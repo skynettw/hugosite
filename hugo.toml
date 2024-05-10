@@ -1,0 +1,4 @@
+baseURL = 'https://skynettw.github.io/'
+languageCode = 'zh-hant'
+title = 'My New Hugo Site'
+theme = 'ananke'
